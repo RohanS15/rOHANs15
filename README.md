@@ -1,24 +1,133 @@
-
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohans15&label=Profile%20views&color=0e75b6&style=flat" alt="rohans15" /> </p>
+<h3 align="center">Cybersecurity Professional | SOAR & SIEM | Security Automation | Developer</h3>
 
-- 🌱 I’m currently learning **Next.JS**
-
-- 💬 Ask me about **React JS**
-
-- 📫 How to reach me **rohansinghaug00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bzydome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bzydome" height="30" width="40" /></a>
+<p align="center">
+  Building, automating, and integrating security solutions for modern security operations.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohans15&show_icons=true&locale=en&layout=compact" alt="rohans15" /></p>
+### 👨‍💻 About Me
 
+I'm a cybersecurity professional working at the intersection of **security operations, automation, and software development**.
 
+My work focuses on building and integrating security solutions, automating repetitive security workflows, troubleshooting complex environments, and working with enterprise security platforms.
+
+I enjoy understanding how systems work under the hood and turning complex technical problems into practical, reliable solutions.
+
+- 🛡️ Working with **SOAR & SIEM**
+- ⚙️ Focused on **Security Automation & Orchestration**
+- 🔌 Experienced with **REST APIs & Security Integrations**
+- ☁️ Working with **Enterprise Security Platforms**
+- 🐧 Comfortable working with **Linux & Kubernetes environments**
+- 🧩 Interested in **automation, development, and cybersecurity**
+- 🚀 Always learning and building something new
+
+---
+
+### 💼 Experience
+
+**CyberRes Professional — OpenText**  
+Working with enterprise cybersecurity solutions, including SOAR and SIEM platforms.
+
+My work involves security automation, integrations, troubleshooting, API-based workflows, playbooks, and supporting enterprise security operations.
+
+---
+
+**Technical Consultant — Samartha InfoSolutions**  
+Worked on technical implementations, troubleshooting, client requirements, system integrations, and delivering practical technology solutions.
+
+---
+
+**Full-Stack Developer — InternForte**  
+Gained hands-on experience in software development, web technologies, application development, and building practical digital solutions.
+
+---
+
+### 🛡️ Cybersecurity
+
+- Security Orchestration, Automation & Response (SOAR)
+- Security Information & Event Management (SIEM)
+- Security Automation
+- Incident Response Workflows
+- Security Integrations
+- REST API Integrations
+- Playbook Automation
+- Alert & Incident Management
+- Enterprise Security Platforms
+- Troubleshooting & Technical Analysis
+
+---
+
+### ⚙️ Technologies & Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="Kubernetes"/>
+
+</p>
+
+---
+
+### 🔐 Security Platforms
+
+- ArcSight SOAR
+- ArcSight ESM
+- ArcSight Platform
+- ArcSight Logger
+- ArcSight Recon
+- Enterprise Security Integrations
+- Security Automation & Playbooks
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/rohans15" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:rohansinghaug00@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohans15&show_icons=true&theme=dark&hide_border=true" alt="Rohan's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohans15&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Rohan's Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Security. Automation. Development.</i>
+</p>
