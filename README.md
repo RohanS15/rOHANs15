@@ -1,133 +1,157 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 
-<h3 align="center">Cybersecurity Professional | SOAR & SIEM | Security Automation | Developer</h3>
+<h3 align="center">
+Cybersecurity Professional • Developer • Security Automation
+</h3>
 
 <p align="center">
-  Building, automating, and integrating security solutions for modern security operations.
+  Building secure systems, automating security operations, and creating modern digital experiences.
+</p>
+
+<p align="center">
+  <a href="mailto:rohansinghaug00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/rohans15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a cybersecurity professional working at the intersection of **security operations, automation, and software development**.
+I'm a **Cybersecurity Professional and Developer** with a strong interest in building software, automating security operations, and solving complex technical problems.
 
-My work focuses on building and integrating security solutions, automating repetitive security workflows, troubleshooting complex environments, and working with enterprise security platforms.
+My work sits at the intersection of **Cybersecurity, Software Development, Automation, and Enterprise Technology**.
 
-I enjoy understanding how systems work under the hood and turning complex technical problems into practical, reliable solutions.
+I enjoy working on everything from creating modern web interfaces and integrating APIs to developing security workflows, troubleshooting enterprise environments, and automating repetitive security operations.
 
-- 🛡️ Working with **SOAR & SIEM**
-- ⚙️ Focused on **Security Automation & Orchestration**
-- 🔌 Experienced with **REST APIs & Security Integrations**
-- ☁️ Working with **Enterprise Security Platforms**
-- 🐧 Comfortable working with **Linux & Kubernetes environments**
-- 🧩 Interested in **automation, development, and cybersecurity**
-- 🚀 Always learning and building something new
-
----
-
-### 💼 Experience
-
-**CyberRes Professional — OpenText**  
-Working with enterprise cybersecurity solutions, including SOAR and SIEM platforms.
-
-My work involves security automation, integrations, troubleshooting, API-based workflows, playbooks, and supporting enterprise security operations.
+- 🛡️ Cybersecurity Professional working with **SOAR & SIEM**
+- 💻 Developer with a focus on **JavaScript, React, Web Development & APIs**
+- ⚙️ Interested in **Security Automation & Orchestration**
+- 🔌 Experienced with **REST API integrations and automation**
+- 🐧 Comfortable working with **Linux environments**
+- ☸️ Experience working with **Kubernetes-based environments**
+- 🧩 Enjoy solving complex technical and integration problems
+- 🚀 Always learning, experimenting, and building
 
 ---
 
-**Technical Consultant — Samartha InfoSolutions**  
-Worked on technical implementations, troubleshooting, client requirements, system integrations, and delivering practical technology solutions.
+# 🛡️ Cybersecurity
 
----
+My cybersecurity experience focuses on **security operations, automation, orchestration, integrations, and enterprise security platforms**.
 
-**Full-Stack Developer — InternForte**  
-Gained hands-on experience in software development, web technologies, application development, and building practical digital solutions.
-
----
-
-### 🛡️ Cybersecurity
+### Security Operations
 
 - Security Orchestration, Automation & Response (SOAR)
 - Security Information & Event Management (SIEM)
+- Incident Response
+- Alert Management
+- Incident Management
+- Security Monitoring
 - Security Automation
-- Incident Response Workflows
+- Security Workflows
+- Playbook Development
 - Security Integrations
-- REST API Integrations
-- Playbook Automation
-- Alert & Incident Management
-- Enterprise Security Platforms
-- Troubleshooting & Technical Analysis
 
----
-
-### ⚙️ Technologies & Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="Kubernetes"/>
-
-</p>
-
----
-
-### 🔐 Security Platforms
+### Security Platforms
 
 - ArcSight SOAR
 - ArcSight ESM
 - ArcSight Platform
 - ArcSight Logger
 - ArcSight Recon
-- Enterprise Security Integrations
-- Security Automation & Playbooks
+
+### Automation & Integration
+
+- SOAR Playbooks
+- Automated Incident Response
+- REST API Integrations
+- Security Tool Integrations
+- API-based Workflows
+- JSON Payload Development
+- Webhook & API Workflows
+- Custom Automation
+- Third-party Security Integrations
+
+### Troubleshooting & Infrastructure
+
+- Linux / RHEL
+- Kubernetes
+- Containerized Applications
+- Network Connectivity Troubleshooting
+- Port & Service Troubleshooting
+- Log Analysis
+- API Troubleshooting
+- Integration Debugging
+- System Diagnostics
 
 ---
 
-### 🔗 Connect With Me
+# 💻 Development
 
-<p align="left">
+Alongside cybersecurity, I have a strong interest in **software and web development**.
 
-<a href="https://github.com/rohans15" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+I enjoy creating interfaces, developing applications, integrating APIs, and turning ideas into functional digital experiences.
 
-<a href="mailto:rohansinghaug00@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+### Frontend Development
 
-</p>
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Responsive Web Design
+- Modern UI Development
+- Component-based Development
+- Interactive Interfaces
+- UI/UX Implementation
+- Animations & Visual Effects
+
+### Backend & Application Development
+
+- Node.js
+- Java
+- REST APIs
+- API Integration
+- JSON
+- Backend Logic
+- Authentication Workflows
+- Data Handling
+- Application Integration
+
+### Development Practices
+
+- Git
+- GitHub
+- Version Control
+- Debugging
+- Troubleshooting
+- API Testing
+- Modular Development
+- Clean & Maintainable Code
 
 ---
 
-### 📊 GitHub Stats
+# 🔐 Security + Development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohans15&show_icons=true&theme=dark&hide_border=true" alt="Rohan's GitHub Stats"/>
-</p>
+One of my main interests is combining **software development with cybersecurity**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohans15&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Rohan's Top Languages"/>
-</p>
+I enjoy building solutions where development and security overlap:
 
----
-
-<p align="center">
-  <i>Security. Automation. Development.</i>
-</p>
+```text
+Software Development
+        │
+        ├── Web Applications
+        ├── APIs
+        ├── Automation
+        └── Integrations
+                │
+                ▼
+        Security Engineering
+                │
+        ├── SOAR
+        ├── SIEM
+        ├── Incident Response
+        ├── Security Automation
+        └── Security Integrations
